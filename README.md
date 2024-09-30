@@ -3,9 +3,9 @@
 欢迎来到李牧融的 CS688 课程资料库。该资料库包含课程所需的所有资源，包括讲义、作业以及其他相关材料。
 
 ## 📚 内容
-- **[课程讲义]([Slides](Slides))**: 课程中使用的讲义和幻灯片。
-- **[作业]([Assignments](Assignments))**: 每个作业的详细描述。
-- **[代码]([Code](Code))**: 作业的代码。
+- **[课程讲义](https://github.com/Li-Murong/CS688/blob/29f25660c3ab6d392035bea91cae0b174990299e/Slides)**: 课程中使用的讲义和幻灯片。
+- **[作业](https://github.com/Li-Murong/CS688/blob/29f25660c3ab6d392035bea91cae0b174990299e/Assignments)**: 每个作业的详细描述。
+- **[代码](https://github.com/Li-Murong/CS688/blob/29f25660c3ab6d392035bea91cae0b174990299e/Code)**: 作业的代码。
 
 ## 📝 使用说明
 - 通过文件夹导航，访问特定资源。
@@ -20,9 +20,9 @@
 Welcome to the repository for Murong Li's CS688 course materials. This repository contains all necessary resources for the course, including lecture slides, assignments, and additional materials.
 
 ## 📚 Contents
-- **[Slides]([Slides](Slides))**: Lecture notes and presentation slides used throughout the course.
-- **[Assignments]([Assignments](Assignments))**: Detailed descriptions and instructions for each assignment.
-- **[Code]([Code](Code))**: Code for each assignment.
+- **[Slides](https://github.com/Li-Murong/CS688/blob/29f25660c3ab6d392035bea91cae0b174990299e/Slides)**: Lecture notes and presentation slides used throughout the course.
+- **[Assignments](https://github.com/Li-Murong/CS688/blob/29f25660c3ab6d392035bea91cae0b174990299e/Assignments)**: Detailed descriptions and instructions for each assignment.
+- **[Code](https://github.com/Li-Murong/CS688/blob/29f25660c3ab6d392035bea91cae0b174990299e/Code)**: Code for each assignment.
 
 ## 📝 How to Use
 - Navigate through the folders to access specific resources.
