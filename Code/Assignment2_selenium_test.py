@@ -89,4 +89,4 @@ print(f"Total number of listings: {len(df)}")
 print(df.head())
 
 # 保存到 CSV 文件
-df.to_csv('craigslist_data_all_pages.csv', index=False)
+# df.to_csv('craigslist_data_all_pages.csv', index=False)
